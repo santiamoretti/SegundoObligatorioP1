@@ -19,7 +19,8 @@ Nosotros les proporcionamos la configuracion grafica del juego, todo lo demas de
 
 Para que la interfaz grafica funcione, definimos algunas especificacion simples como el tamaño de la pantalla y el tamaño de las celdas. 
 
-'''python pygame.init()
+```python
+pygame.init()
 
 
 tamano_pantalla = 400
@@ -28,11 +29,11 @@ tamano_celda = tamano_pantalla // filas
 pantalla = pygame.display.set_mode((tamano_pantalla, tamano_pantalla))
 pygame.display.set_caption("Buscaminas")
 
-# Colores
+
 BLANCO = (255, 255, 255)
 NEGRO = (0, 0, 0)
 ROJO = (255, 0, 0)
-VERDE = (0, 255, 0) '''
+VERDE = (0, 255, 0)
 
 
 
