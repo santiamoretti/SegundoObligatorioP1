@@ -23,7 +23,7 @@ Nosotros les proporcionamos la configuracion grafica del juego, todo lo demas de
 
 ### Video de la implementacion 
 
-![Buscaminas Demo](./main/My Project.gif)
+![Buscaminas Demo](./My%20Project.gif)
 
 
 
