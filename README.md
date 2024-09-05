@@ -9,7 +9,7 @@
 ### Objetivo
 
 En este proyecto, deberan implementar una version simple de la lógica del clásico juego de Buscaminas. 
-Nosotros les proporcionamos la configuracion grafica del juego, todo lo demas deberá ser implementado por ustdes ustedes.
+Nosotros les proporcionamos la configuracion grafica del juego, todo lo demas deberá ser implementado por ustedes.
 
 ### Inicializacion
 
